@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abir-hossain-6b1a41301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/hossainabir"><img src="https://img.shields.io/badge/TryHackMe-Top%2020%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://tryhackme.com/p/hossainabir"><img src="https://img.shields.io/badge/TryHackMe-hossainabir-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://bytecrops.com"><img src="https://img.shields.io/badge/ByteCrops-bytecrops.com-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ByteCrops"></a>
   <a href="https://chahidabd.com"><img src="https://img.shields.io/badge/Chahidabd.com-Live-2EA44F?style=for-the-badge&logo=laravel&logoColor=white" alt="Chahidabd.com"></a>
   <a href="mailto:abirhossanakash91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -26,7 +26,6 @@
 
 - 🗺️ **[TryHackMe Roadmap: Free vs Premium](https://github.com/hossainabir1/tryhackme-roadmap-free-vs-premium)**: a 2026 learning path from beginner to PT1/SAL1, with free and premium rooms separated at every level
 - 📝 **[THM Writeups](https://github.com/hossainabir1/THM-writeups)**: my notes and walkthroughs from TryHackMe rooms
-- 🎯 TryHackMe: top 20% ranking
 
 ---
 
